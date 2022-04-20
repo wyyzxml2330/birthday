@@ -30,7 +30,7 @@ var config = {
      */
     imgs: {
         "揪咪": "file:///Users/chenshijia/Downloads/未命名文件夹/IMG_7556.jpg",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        // "今天是你的生日": "./imgs/IMG_7556.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
